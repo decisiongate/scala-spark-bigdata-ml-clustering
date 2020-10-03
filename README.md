@@ -16,7 +16,7 @@
 * IntelliJ IDEA (Ultimate Edition)
 
 ## Features
-SparkSession, clustering, BisectingKMeans, GaussianMixture, KMeans, LDA, ClusteringEvaluator, transform, ...
+SparkSession, clustering, BisectingKMeans, GaussianMixture, KMeans, LDA, ClusteringEvaluator, Logger, transform, ...
 
 ## Setup
 To run this project, install it on Linux (Debian 9.7 x64) using the scripts:
